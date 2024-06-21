@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lasagna Mania</string>
+    <string name="splashAppName">Lasagna Mania</string>
+    <string name="splashMotto">Run, Jump, Eat! \nJoin Garfield\'s Lasagna Mania!</string>
+    <string name="gameOver">Game \nOver !</string>
+    <string name="score">Score</string>
+</resources>
